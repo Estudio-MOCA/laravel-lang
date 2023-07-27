@@ -2,7 +2,7 @@
 
 Traducciones español de Laravel con enfoque JSON.
 
-Por mientras solo están las traducciones de las validaciones de la clase Validator con enfoque JSON. Esto porque es incompatible el enfoque de carpetas en la carpeta "/lang".
+Por mientras solo están las traducciones de las validaciones de la clase Validator con enfoque JSON. Esto porque es incompatible el enfoque de carpetas en el directorio "/lang".
 
 Solo debes copiar el archivo es.json a tu carpeta de Laravel /resources/lang/es.json, en ese archivo puedes poner tus cadenas customizadas.
 
